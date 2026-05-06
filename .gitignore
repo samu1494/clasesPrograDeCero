@@ -1,0 +1,27 @@
+# Ejecutables compilados
+*.exe
+*.out
+*.app
+
+# Archivos de objeto y librerías estáticas
+*.o
+*.obj
+*.a
+*.lib
+
+# Archivos de depuración y temporales
+*.log
+*.d
+*.pdb
+*.ilk
+
+# Carpetas de compilación comunes
+build/
+bin/
+obj/
+dist/
+
+# Configuraciones de editores (Opcional)
+.vscode/
+.idea/
+*.swp

@@ -26,7 +26,14 @@ Temas avanzados en la sesión:
 📄 **[Ver Diapositivas del Día 1](https://docs.google.com/presentation/d/1O7qaM7DqbwKISVkl9QLQPwTm2tcYprqd7R7InYAFpHw/edit?usp=sharing)**
 
 ---
+### 🟢 Día 2: Estructuras Repetitivas
+Temas avanzados en la sesión:
+- Ciclo while.
+- Ciclo For.
 
+📄 **[Ver Diapositivas del Día 2](https://docs.google.com/presentation/d/1okuDbHLfD3upQP3K4XnNcfqfQ8TmfPVx-PTzZEoDjIc/edit?usp=sharing)**
+
+---
 ## 🏆 Práctica y Competencia
 
 La mejor forma de aprender a programar es escribiendo código. Te dejamos el enlace a nuestra plataforma de práctica para esta sesión:
