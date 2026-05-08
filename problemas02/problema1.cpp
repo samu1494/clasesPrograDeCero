@@ -1,4 +1,4 @@
-https://codeforces.com/contest/546/problem/A
+// https://codeforces.com/contest/546/problem/A
 
 #include <iostream>
 using namespace std;
@@ -7,7 +7,7 @@ int main() {
     // Código aqui!!!
     int k, n, w;
     cin >> k >> n >> w;
-    int totalPagar = 0;b
+    int totalPagar = 0;
 
     for(int i=1; i<= w; i++){
       int aux = k * i;
