@@ -44,8 +44,9 @@ Temas avanzados en la sesión:
 
 Temas avanzados en la sesión:
 
-- Ciclo while.
-- Ciclo For.
+- Vectores estaticos
+- Vectores Dinamicos
+- Matrices
 
 📄 **[Ver Diapositivas del Día 2](https://docs.google.com/presentation/d/1y_lGHZk9vz0AUqCRF85BT-OXl-_ZfDfe4U-2SvpKi9U/edit?usp=sharing)**
 
