@@ -25,6 +25,8 @@ Temas avanzados en la sesión:
 
 📄 **[Ver Diapositivas del Día 1](https://docs.google.com/presentation/d/1O7qaM7DqbwKISVkl9QLQPwTm2tcYprqd7R7InYAFpHw/edit?usp=sharing)**
 
+📼 **[Ver Video Clase Día 1](https://youtu.be/d3amtJpHa9I?si=h14DkCCs6COzt3hV)**
+
 ---
 
 ### 🟢 Día 2: Estructuras Repetitivas
